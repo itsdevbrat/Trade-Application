@@ -1,7 +1,6 @@
 # Trade-Application
 
-Jar is present in the repository so can directly run it and execute below curls to test the behaviour
-
+Below are the cURL requests to execute against the application to test the behaviour
 
 ### Create a trade with maturity date before todays date (Rejected)
 `
